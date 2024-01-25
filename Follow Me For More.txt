@@ -1,6 +1,1 @@
-Hi I am Ali Mohsin and I am a self motivated computer scientist with 2 year of experience and BSCS degree in hand. I am creating this repository to help people who are new in the field or trying to follow along with Leet code.
-
-So if I am helpfull then  for more updates on codes please like my page 
-
-https://www.facebook.com/CodingJokerLeetCode/
 
